@@ -1,0 +1,9 @@
+/* CSS for coursegen_xblock */
+
+.coursegen-ai_block .count {
+    font-weight: bold;
+}
+
+.coursegen-ai_block p {
+    cursor: pointer;
+}
